@@ -1,0 +1,50 @@
+h1 {
+    font-family: $police_titre;
+    text-transform: uppercase;
+    font-size: 3.5em;
+};
+h2 {
+    font-family: $police_button;
+    text-transform: uppercase;
+    font-size: 3em;
+};
+h3 {
+    font-family: $police_titre;
+    text-transform: uppercase;
+    font-size: 2em;
+};
+p {
+    font-family: $police_texte;
+};
+.nav-wrapper {    
+    a {
+        font-family: $police_sousTitre;
+        outline: none;
+        text-align: justify;
+    }
+};
+blockquote {
+    font-family: $police_button;
+    font-size: 1em;
+};
+.modal-content {
+    h3 {
+        font-family: $police_titre;
+        text-transform: uppercase;
+        font-size: 2em;
+    };
+    p {
+        font-family: $police_texte;
+    }
+    a {
+        font-family: $police_sousTitre;
+        outline: none;
+        font-weight: bold;
+    }
+};
+.card-title {
+    font-family: $police_button;
+    font-size: 1.3em !important;
+}
+
+   

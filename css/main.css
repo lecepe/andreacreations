@@ -1,0 +1,100 @@
+@font-face {
+  font-family: "Impact";
+  src: url("./font/Impact.woff2"), url("./font/Impact.woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "latoregular";
+  src: url("./font/lato-regular-webfont.woff2"), url("./font/lato-regular-webfont.woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Impact";
+  src: url("./font/Impact.woff2"), url("./font/Impact.woff");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "latoregular";
+  src: url("./font/lato-regular-webfont.woff2"), url("./font/lato-regular-webfont.woff");
+  font-weight: normal;
+  font-style: normal;
+}
+h1 {
+  font-family: caviarBold;
+  text-transform: uppercase;
+  font-size: 3.5em;
+}
+
+h2 {
+  font-family: caviarBold;
+  text-transform: uppercase;
+  font-size: 3em;
+}
+
+h3 {
+  font-family: caviarBold;
+  text-transform: uppercase;
+  font-size: 2em;
+}
+
+p {
+  font-family: latoregular;
+}
+
+.nav-wrapper a {
+  font-family: gravityregular;
+  outline: none;
+  text-align: justify;
+}
+
+blockquote {
+  font-family: caviarBold;
+  font-size: 1em;
+}
+
+.modal-content h3 {
+  font-family: caviarBold;
+  text-transform: uppercase;
+  font-size: 2em;
+}
+.modal-content p {
+  font-family: latoregular;
+}
+.modal-content a {
+  font-family: gravityregular;
+  outline: none;
+  font-weight: bold;
+}
+
+.card-title {
+  font-family: caviarBold;
+  font-size: 1.3em !important;
+}
+
+.map-responsive {
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+}
+
+.map-responsive iframe {
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+}
+
+.sidenav-overlay {
+  z-index: 2 !important;
+}
+
+a {
+  outline: none;
+}
+
+/*# sourceMappingURL=main.css.map */

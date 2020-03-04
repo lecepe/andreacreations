@@ -1,0 +1,23 @@
+@import 'typo/typo.scss';
+
+//couleurs
+$main-color: #ffffff;
+$main-toggle-color: #d6d6d6;
+$main-toggle-hover-color: #ffffff;
+$secondary-color: #000000;
+$tertiary-color: #ffd3a2;
+$transparent_color: rgba(0, 255, 255, 0);
+
+//police
+$police-menu: gavabon;
+$police_titre : caviarBold;
+$police_sousTitre : gravityregular;
+$police_button : caviarBold;
+$police_legende : gravitybook;
+$police_texte : latoregular;
+
+//propriétés
+$burger--thickness: 4px;
+
+//Animation
+$navigation__transition: max-height 0.5s ease-in-out;
